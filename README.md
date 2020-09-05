@@ -14,3 +14,9 @@
 
 * [律師](lawyer.md)
 * [景观园林设计师](garden-designer.md)
+
+
+## LICENSE
+
+CC-BY-SA 4.0
+https://creativecommons.org/licenses/by-sa/4.0/
