@@ -13,6 +13,7 @@
 ## 其他
 
 * [律師](lawyer.md)
+* [藥師](pharmacist.md)
 * [景观园林设计师](garden-designer.md)
 
 
