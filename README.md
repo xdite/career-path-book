@@ -16,6 +16,10 @@
 * [景观园林设计师](garden-designer.md)
 
 
+## Contribute
+
+新增內容請直接拉 pull request，或將內容寄到 xdite@hey.com，手動更新。
+
 ## LICENSE
 
 CC-BY-SA 4.0
